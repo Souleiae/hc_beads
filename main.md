@@ -278,57 +278,33 @@ style="width: 614px; height: 294px;" alt="stringerbeads"
 src="designdetailbeadsnew.jpg"></span><br>
 <br
 style="font-family: Helvetica,Arial,sans-serif;">
+
 <small><span
 style="font-family: Helvetica,Arial,sans-serif;">This is an
-intermediate class focusing on stringer control and design.</span><br
-style="font-family: Helvetica,Arial,sans-serif;">
-<span
-style="font-family: Helvetica,Arial,sans-serif;">In the class we will
-concentrate on using stringers to create intricate detailed patterns</span><br
-style="font-family: Helvetica,Arial,sans-serif;">
-<span
-style="font-family: Helvetica,Arial,sans-serif;">on glass beads while
-in the flame. We'll also discuss methods that aid in promoting</span><br
-style="font-family: Helvetica,Arial,sans-serif;">
-<span
-style="font-family: Helvetica,Arial,sans-serif;">individuality in our
-work by taking technique and design beyond our usual boundaries</span><br
-style="font-family: Helvetica,Arial,sans-serif;">
-<span
-style="font-family: Helvetica,Arial,sans-serif;">and towards a more
-personal style.</span><br
-style="font-family: Helvetica,Arial,sans-serif;">
-<span
-style="font-family: Helvetica,Arial,sans-serif;">Part of the session
-I'll be showing how I manipulate fine stringers using simple tools</span><br
-style="font-family: Helvetica,Arial,sans-serif;">
-<span
-style="font-family: Helvetica,Arial,sans-serif;">and techniques as
-well as discuss the properties of glass as it relates to the making of</span><br
-style="font-family: Helvetica,Arial,sans-serif;">
-<span
-style="font-family: Helvetica,Arial,sans-serif;">stringers that hold a
-highly detailed pattern.</span><br
-style="font-family: Helvetica,Arial,sans-serif;">
-<span
-style="font-family: Helvetica,Arial,sans-serif;">I will also
-demonstrate and discuss surface design elements such as:</span><br
-style="font-family: Helvetica,Arial,sans-serif;">
-<span
-style="font-family: Helvetica,Arial,sans-serif;">rhythmic pattern,
-negative and positive space, color, scale and proportion, texture,</span><br
-style="font-family: Helvetica,Arial,sans-serif;">
-<span
-style="font-family: Helvetica,Arial,sans-serif;">bead shape and its
-relationship to the design and modular pattern development.</span><br
-style="font-family: Helvetica,Arial,sans-serif;">
-<span
-style="font-family: Helvetica,Arial,sans-serif;">I use modular
-development in many of my beads as a means of creating a complex design</span><br
-style="font-family: Helvetica,Arial,sans-serif;">
-<span
-style="font-family: Helvetica,Arial,sans-serif;">within a simple
-framework. I will demonstrate step-by-step how I achieve this in my
+intermediate class focusing on stringer control and design.
+In the class we will
+concentrate on using stringers to create intricate detailed patterns
+on glass beads while in the flame. We'll also discuss methods that aid in promoting
+individuality in our
+work by taking technique and design beyond our usual boundaries
+and towards a more
+personal style.
+    <p>Part of the session
+I'll be showing how I manipulate fine stringers using simple tools
+and techniques as
+well as discuss the properties of glass as it relates to the making of
+stringers that hold a
+highly detailed pattern.
+    <p>I will also
+demonstrate and discuss surface design elements such as:
+    rhythmic pattern,
+negative and positive space, color, scale and proportion, texture,
+    bead shape and its
+relationship to the design and modular pattern development.
+    I use modular
+development in many of my beads as a means of creating a complex design
+    within a simple
+framework. <p>I will demonstrate step-by-step how I achieve this in my
 beads.</span></small></p>
 
 

@@ -1,6 +1,6 @@
 layout: page
 title: "main"
-permalink: /URL-PATH
+permalink: /http://hollycooper.com/
 
 
 <html>
@@ -63,45 +63,14 @@ style="color: rgb(153, 0, 0);">&nbsp; &nbsp;</span></big></big><br>
 <table
 style="text-align: left; margin-left: auto; margin-right: auto; width: 688px; height: 6087px;"
 border="0" cellpadding="0" cellspacing="2">
-<tbody>
-<tr>
-<td style="text-align: center;">
-<div style="text-align: left;"><big><span
-style="color: rgb(0, 204, 204); font-family: Helvetica,Arial,sans-serif;"><big>Summer
-2024 Classes<br>
-</big></span></big><span
-style="color: rgb(0, 204, 204);"><span
-style="font-family: Helvetica,Arial,sans-serif;">........................................................................................<br>
-</span></span></div>
-<p style="text-align: left;"><span
-style="color: rgb(0, 204, 204);"><span
-style="font-family: Helvetica,Arial,sans-serif;"><img
-style="width: 24px; height: 25px;" alt="" src="scroll.jpeg">&nbsp; <a
-href="https://urbanglass.org/classes/detail/powder-play-beadmaking">Urban
-Glass Studio</a>&nbsp; Brooklyn, NY</span></span></p>
-<p style="text-align: left;"><span
-style="color: rgb(0, 204, 204);"><span
-style="font-family: Helvetica,Arial,sans-serif;">Powder Play Class ...
-July 19-21</span></span></p>
-<p style="text-align: left;"><span
-style="color: rgb(0, 204, 204);"><span
-style="font-family: Helvetica,Arial,sans-serif;"><img
-style="width: 24px; height: 25px;" alt="" src="scroll.jpeg">&nbsp; <a
-href="https://ifg.org.uk/product/holly-cooper-powder-play/">International
-Festival of Glass</a>&nbsp; Ruskin Glass Centre, Stourbridge, UK</span></span></p>
-<p style="text-align: left;"><span
-style="color: rgb(0, 204, 204);"><span
-style="font-family: Helvetica,Arial,sans-serif;">Powder Play Class ...
-August 19-22</span></span></p>
-<p style="text-align: left;"><span
-style="color: rgb(0, 204, 204);"><span
-style="font-family: Helvetica,Arial,sans-serif;"><br>
-</span></span></p>
+                            
 <p style="text-align: left;"><span
 style="color: rgb(0, 204, 204);"><span
 style="font-family: Helvetica,Arial,sans-serif;"><a
 href="mailto:hcooperolds@gmail.com">hcooperolds@gmail.com</a><br>
 </span></span></p>
+
+
 <p style="text-align: left;">.......................................................................</p>
 <p style="text-align: left;"><span
 style="color: rgb(0, 204, 204);"><span
@@ -138,6 +107,8 @@ Bring your imagination and willingness to play</span></small></span></span></td>
 </tr>
 </tbody>
 </table>
+
+
 <p style="text-align: left;"><br>
 <span style="color: rgb(0, 204, 204);"><span
 style="font-family: Helvetica,Arial,sans-serif;"></span></span></p>
@@ -178,6 +149,8 @@ from my Etsy shop!</span></span></span></a></p>
 href="https://www.etsy.com/shop/HollyCooper?ref=shop_sugg"><img
 alt="spatula" src="spatulacloseup.jpg"
 style="border: 0px solid ; width: 269px; height: 242px;"></a></p>
+
+
 <p style="text-align: left;"><span
 style="color: rgb(51, 102, 102);">...........................................................................................................................................................................</span></p>
 <p style="text-align: left;"><span
@@ -258,6 +231,9 @@ style="font-family: Helvetica,Arial,sans-serif;"><span
 style="font-family: Helvetica,Arial,sans-serif;"><small>Special
 Materials: Silver Leaf, Silver Foil, Silver Powder, Silver Glass, and
 Frit</small></span></span></span></p>
+
+
+
 <p style="text-align: left;">.......................................................................</p>
 <p style="text-align: left;"><span
 style="color: rgb(0, 204, 204);"><span
@@ -284,6 +260,9 @@ We will use basic colors and bead shapes to better concentrate on the
 stringer designs.<br>
 <br>
 (prerequisite- some stringer experience. Intermediate/advanced)</small></span></span></p>
+
+
+
 <p style="text-align: left;">........................................................................&nbsp;&nbsp;</p>
 <p style="text-align: left;"><span
 style="color: rgb(0, 204, 204);"><span
@@ -351,6 +330,9 @@ style="font-family: Helvetica,Arial,sans-serif;">
 style="font-family: Helvetica,Arial,sans-serif;">within a simple
 framework. I will demonstrate step-by-step how I achieve this in my
 beads.</span></small></p>
+
+
+
 <p style="text-align: left;">........................................................................&nbsp;&nbsp;</p>
 <p style="text-align: left;"><br>
 &nbsp;<span style="color: rgb(0, 204, 204);"><span
@@ -423,6 +405,9 @@ style="font-family: Helvetica,Arial,sans-serif;"> These combined
 techniques<br>
 will utilize the interplay of various materials to enrich the surface
 of your work.</span></small></p>
+
+
+
 <p style="text-align: left;">........................................................................&nbsp;</p>
 <p style="text-align: left;"><span
 style="color: rgb(0, 204, 204);"><span
@@ -448,6 +433,9 @@ honing your stringer skills.</span></small></div>
 <div style="text-align: left;">&nbsp;</div>
 <div style="text-align: left;">&nbsp;</div>
 <div style="text-align: left;"><br>
+
+
+  
 ........................................................................<br>
 <br>
 <small><span
@@ -489,6 +477,9 @@ beads.</span></small><br>
 </tr>
 </tbody>
 </table>
+
+
+
 <div style="text-align: left;"><span
 style="color: rgb(51, 102, 102);">...........................................................................................................................................................................</span></div>
 &nbsp;
